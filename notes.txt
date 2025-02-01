@@ -1,0 +1,11 @@
+- Treat indiviudal nodes as their own entities w/ their own policy e.c.t.
+- Use tensor to speed up the process / computaitonal complexity.
+
+- Concepts to further explore:
+    For basic dumbell graph
+    - When do we want to wait for swapping and when do we want to swap immediately?
+
+    - Draw out swapping example
+    - Explain issues with state space, especially inmultiplexing and if n-step is the best approach?
+
+    - Which version from sutton and barton is best?
